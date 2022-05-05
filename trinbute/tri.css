@@ -1,0 +1,21 @@
+.div {
+    background-color: yellow;
+    height: 150px;
+    font-size: 100px;
+}
+
+.spelling-error {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: black;
+}
+
+.h1 {
+    font-size: 80px;
+}
+
+.p {
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
